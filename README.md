@@ -1,4 +1,4 @@
-<h1>Hi, I'm Noah! <br/><a href="https://github.com/noahbutler2">Information Technology</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity</a>, <a href="https://www.youtube.com/c/joshmadakor">Cloud</a></h1>
+<h1>Hi, I'm Noah! <br/><a href="https://github.com/noahbutler2">Information Technology</a>
 
 <h2> Cybersecurity Projects:</h2>
 
