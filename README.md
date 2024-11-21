@@ -1,4 +1,6 @@
-<h1>Hi, I'm Noah, an <a href="https://www.linkedin.com/in/noah-butler2/"></a>☺</h1>
+<h1>Hi, I'm Noah!<a href="https://www.linkedin.com/in/noah-butler2/"></a>😄</h1>
+
+Checkout some of the projects I've been practicing and working on!
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
