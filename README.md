@@ -11,7 +11,7 @@ Checkout some of the projects I've been practicing and working on!
 - <b>Networks in Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/noahbutler2/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/noahbutler2/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
-
+  - [Network File Shares and Permissions](https://github.com/noahbutler2/Network-File-Shares-and-Permissions)
 <h2>🤳Connect with me:</h2>
 
 
