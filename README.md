@@ -2,7 +2,7 @@
 
 Checkout some of the projects I've been practicing and working on!
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻📶 Cloud/Network Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/noahbutler2/osticket-prereqs)
