@@ -8,7 +8,7 @@ Checkout some of the projects I've been practicing and working on!
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/noahbutler2/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/noahbutler2/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
   - [Network File Shares and Permissions](https://github.com/noahbutler2/Network-File-Shares-and-Permissions)
-  - [Building Intuition for DNS]()
+  - [Building Intuition for DNS](https://github.com/noahbutler2/Building-Intuition-for-DNS)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/noahbutler2/osTicket-Prerequisites-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/noahbutler2/osTicket-Post-Installation-Configuration)
